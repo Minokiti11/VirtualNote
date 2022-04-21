@@ -58,12 +58,13 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+<<<<<<< HEAD
 Logs
 
 Temp
 
 Library
 
-LibiPhone-lib.a
-
 payload.tar.7z
+=======
+>>>>>>> parent of 16d3c56 (CommitSomething)
