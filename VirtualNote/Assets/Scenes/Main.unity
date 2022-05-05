@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641234, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 15658129}
   - component: {fileID: 15658130}
   m_Layer: 5
-  m_Name: CMF1
+  m_Name: CMF1_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1100,7 +1100,7 @@ GameObject:
   - component: {fileID: 590580867}
   - component: {fileID: 590580868}
   m_Layer: 5
-  m_Name: OtherCF2
+  m_Name: OtherCF2_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1402,7 +1402,7 @@ GameObject:
   - component: {fileID: 629328579}
   - component: {fileID: 629328580}
   m_Layer: 5
-  m_Name: OtherLSB
+  m_Name: OtherLSB_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1594,7 +1594,7 @@ GameObject:
   - component: {fileID: 668608038}
   - component: {fileID: 668608039}
   m_Layer: 5
-  m_Name: RSB
+  m_Name: RSB_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1798,7 +1798,7 @@ GameObject:
   - component: {fileID: 689885158}
   - component: {fileID: 689885159}
   m_Layer: 5
-  m_Name: CF1
+  m_Name: CF1_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2279,7 +2279,7 @@ GameObject:
   - component: {fileID: 875394270}
   - component: {fileID: 875394271}
   m_Layer: 5
-  m_Name: GK
+  m_Name: GK_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2385,7 +2385,7 @@ GameObject:
   - component: {fileID: 894282044}
   - component: {fileID: 894282045}
   m_Layer: 5
-  m_Name: CB2
+  m_Name: CB2_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2491,7 +2491,7 @@ GameObject:
   - component: {fileID: 949515254}
   - component: {fileID: 949515255}
   m_Layer: 5
-  m_Name: OtherLMF
+  m_Name: OtherLMF_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2812,7 +2812,7 @@ GameObject:
   - component: {fileID: 1024344621}
   - component: {fileID: 1024344622}
   m_Layer: 5
-  m_Name: RMF
+  m_Name: RMF_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2937,7 +2937,7 @@ GameObject:
   - component: {fileID: 1069265142}
   - component: {fileID: 1069265143}
   m_Layer: 5
-  m_Name: CF2
+  m_Name: CF2_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3043,7 +3043,7 @@ GameObject:
   - component: {fileID: 1079545697}
   - component: {fileID: 1079545698}
   m_Layer: 5
-  m_Name: OtherCF1
+  m_Name: OtherCF1_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3149,7 +3149,7 @@ GameObject:
   - component: {fileID: 1118871964}
   - component: {fileID: 1118871965}
   m_Layer: 5
-  m_Name: CB1
+  m_Name: CB1_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3274,7 +3274,7 @@ GameObject:
   - component: {fileID: 1201406447}
   - component: {fileID: 1201406448}
   m_Layer: 5
-  m_Name: LMF
+  m_Name: LMF_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3645,7 +3645,7 @@ GameObject:
   - component: {fileID: 1284787985}
   - component: {fileID: 1284787986}
   m_Layer: 5
-  m_Name: OtherCB1
+  m_Name: OtherCB1_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4443,7 +4443,7 @@ GameObject:
   - component: {fileID: 1515748100}
   - component: {fileID: 1515748101}
   m_Layer: 5
-  m_Name: OtherCMF2
+  m_Name: OtherCMF2_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4606,7 +4606,7 @@ GameObject:
   - component: {fileID: 1593718133}
   - component: {fileID: 1593718134}
   m_Layer: 5
-  m_Name: OtherCMF1
+  m_Name: OtherCMF1_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4712,7 +4712,7 @@ GameObject:
   - component: {fileID: 1599097182}
   - component: {fileID: 1599097183}
   m_Layer: 5
-  m_Name: CMF2
+  m_Name: CMF2_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5332,7 +5332,7 @@ GameObject:
   - component: {fileID: 1676590016}
   - component: {fileID: 1676590017}
   m_Layer: 5
-  m_Name: OtherCB2
+  m_Name: OtherCB2_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5438,7 +5438,7 @@ GameObject:
   - component: {fileID: 1698124721}
   - component: {fileID: 1698124722}
   m_Layer: 5
-  m_Name: OtherRMF
+  m_Name: OtherRMF_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5811,7 +5811,7 @@ GameObject:
   - component: {fileID: 1745496062}
   - component: {fileID: 1745496063}
   m_Layer: 5
-  m_Name: LSB
+  m_Name: LSB_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5910,6 +5910,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 786507796}
     m_Modifications:
+    - target: {fileID: 5152113789395399184, guid: 17f351a6805b24a06878db1bfd9002f4, type: 3}
+      propertyPath: camera
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 5152113789395399184, guid: 17f351a6805b24a06878db1bfd9002f4, type: 3}
+      propertyPath: lookAt
+      value: 
+      objectReference: {fileID: 963194229}
+    - target: {fileID: 5152113789395399184, guid: 17f351a6805b24a06878db1bfd9002f4, type: 3}
+      propertyPath: cameraOffset.y
+      value: 5.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5152113789395399184, guid: 17f351a6805b24a06878db1bfd9002f4, type: 3}
+      propertyPath: cameraOffset.z
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5152113789395399186, guid: 17f351a6805b24a06878db1bfd9002f4, type: 3}
       propertyPath: m_Name
       value: PlayerSelector
@@ -6505,7 +6521,7 @@ GameObject:
   - component: {fileID: 2063028125}
   - component: {fileID: 2063028126}
   m_Layer: 5
-  m_Name: OtherRSB
+  m_Name: OtherRSB_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6709,7 +6725,7 @@ GameObject:
   - component: {fileID: 2146480918}
   - component: {fileID: 2146480919}
   m_Layer: 5
-  m_Name: OtherGK
+  m_Name: OtherGK_IMG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
