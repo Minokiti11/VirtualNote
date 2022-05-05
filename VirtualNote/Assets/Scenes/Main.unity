@@ -5920,11 +5920,11 @@ PrefabInstance:
       objectReference: {fileID: 963194229}
     - target: {fileID: 5152113789395399184, guid: 17f351a6805b24a06878db1bfd9002f4, type: 3}
       propertyPath: cameraOffset.y
-      value: 5.5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5152113789395399184, guid: 17f351a6805b24a06878db1bfd9002f4, type: 3}
       propertyPath: cameraOffset.z
-      value: 0.5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5152113789395399186, guid: 17f351a6805b24a06878db1bfd9002f4, type: 3}
       propertyPath: m_Name
