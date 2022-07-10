@@ -5,13 +5,9 @@ using UnityEngine;
 public class LookAt : MonoBehaviour
 {
     public GameObject targetObject;
-    void Start()
-    {
-        
-    }
     
-    void Update()
+    public void LookAtCenter(GameObject obj)
     {
-        this.transform.LookAt(targetObject.transform);
+        obj.transform.LookAt(targetObject.transform);
     }
 }
